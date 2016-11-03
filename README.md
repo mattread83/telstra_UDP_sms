@@ -5,3 +5,6 @@ this is how to send sms to australian numbers using telstra's API via a UDP sock
 send UPD string
 
 0400123456this is the message
+
+
+credit:https://anthonykremor.com/?p=156
